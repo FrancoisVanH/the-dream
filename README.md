@@ -24,7 +24,7 @@ One thing is for sure - we'd need to calculate how many Euros that way-too-expen
 - Allow the user to choose between different currencies
 - Provide a button to switch the from / to valuta types (So Euro -> Dollar becomes Dollar --> Euro)
 
-## Need some help?
+## Need some help? ####### yyes
 ### Step by step guidance
 
     1. Create the HTML you need
