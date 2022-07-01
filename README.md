@@ -19,7 +19,7 @@ One thing is for sure - we'd need to calculate how many Euros that way-too-expen
 - Make a small webpage where you can enter the local rate (use a form), and it'll tell you the price in Euros. A simple calculation will do, no need to get updated rates from external API's.
 - Use a form that submits to PHP (no JS allowed / no preventDefault)
 
-#### 🌼 Nice to haves
+#### 🌼 Nice to haves but hard to get 🥲
 
 - Allow the user to choose between different currencies
 - Provide a button to switch the from / to valuta types (So Euro -> Dollar becomes Dollar --> Euro)
